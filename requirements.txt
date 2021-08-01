@@ -1,0 +1,8 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+gTTS==2.2.2
+Pillow==8.2.0
+playsound==1.2.2
+PyAutoGUI==0.9.52
+pyttsx3==2.90
+requests==2.25.1

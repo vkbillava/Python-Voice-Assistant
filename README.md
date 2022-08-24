@@ -1,6 +1,6 @@
 # Python-Voice-Assistant 
 
-A new Flutter project for Real Time Text Detection built using Flutter Mobile Vision.
+A basic Python Voice Assistant.
 
 ## USAGE
 
